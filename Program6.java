@@ -9,7 +9,7 @@ set pi as final variable
 */
 import java.util.Scanner;
 
-public class circleComponents {
+public class Program6 {
     public static void main(String[] args) {
  final double PI = 3.14159;       
  Scanner radius = new Scanner(System.in);
